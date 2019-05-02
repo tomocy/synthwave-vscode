@@ -92,7 +92,7 @@
   top: 0px;
   left: 0px;
   width: 4px;
-  background: linear-gradient(to bottom, #fc28a8, #03edf9) !important;
+  /* background: linear-gradient(to bottom, #fc28a8, #03edf9) !important; */
   opacity: 1;
 }
 
