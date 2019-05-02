@@ -47,7 +47,7 @@
 
 /* Sweet sunset dots */
 .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
-  background: linear-gradient(to bottom, #fff951 25%, #fc28a8);
+  /* background: linear-gradient(to bottom, #fff951 25%, #fc28a8); */
 }
 
 /* Active tab neon */
